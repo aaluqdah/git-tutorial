@@ -1,1 +1,2 @@
-Git Tutorial Trey Al-Uqdah
+Git Tutorial 
+Trey Al-Uqdah
